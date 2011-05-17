@@ -1,0 +1,18 @@
+#labels Phase-Implementation,Phase-Support
+#Detalles del desarrollo del Trabajo Práctico Nº2.
+
+= Introducción =
+
+[Agregar contenido aquí]
+
+
+= Desarrollo =
+
+[Agregar contenido aquí]
+
+== Eclipse ==
+[Agregar contenido aquí]
+
+
+
+
