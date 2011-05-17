@@ -1,14 +1,12 @@
 #labels Phase-Implementation,Phase-Support
 = Introducción =
 
-[Agregar contenido aquí]
+Agregar contenido aquí
 
-
+<br />
 == Desarrollo ==
 
-[Agregar contenido aquí]
+Agregar contenido aquí
 
 === Eclipse ===
-[Agregar contenido aquí]
-
-
+Agregar contenido aquí
