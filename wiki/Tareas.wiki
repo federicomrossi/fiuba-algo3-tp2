@@ -1,4 +1,3 @@
-#labels Deprecated
 = Tareas de desarrollo =
 
 En este apartado se muestra una lista de las tareas que se deberán realizar a lo largo del desarrollo. Dicha lista posee como fin mantener un control de las tareas faltantes, las ya realizadas o las que se están llevando a cabo actualmente.
