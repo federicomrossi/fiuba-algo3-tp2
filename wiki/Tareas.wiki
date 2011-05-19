@@ -16,26 +16,26 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *F*	Realizar esqueletos de clases principales (incluir documentación)<br>
 *-*	Realizar esqueletos de expeciones (incluir documentación)<br>
 <br>
-*F*	PRUEBA - ArmaDirigidaPrueba<br>
-*F*	PRUEBA - ArmaLimitadaPrueba<br>
-*F*	PRUEBA - ArmaPrueba<br>
-*F*	PRUEBA - BonoDeArmasPrueba<br>
-*F*	PRUEBA - BonoDeEnergiaPrueba<br>
-*F*	PRUEBA - ChoqueDeNaveMilitarControladaPrueba<br>
-*F*	PRUEBA - ChoqueDeNavePrueba<br>
-*F*	PRUEBA - ChoqueDeObjetoEspacialPrueba<br>
-*F*	PRUEBA - ChoqueDeProyectilPrueba<br>
-*F*	PRUEBA - EscenarioPrueba<br>
-*F*	PRUEBA - FabricaDeArmasPrueba<br>
-*F*	PRUEBA - FabricaDeNavesPrueba<br>
+*T*	PRUEBA - ArmaDirigidaPrueba<br>
+*T*	PRUEBA - ArmaLimitadaPrueba<br>
+*T*	PRUEBA - ArmaPrueba<br>
+*T*	PRUEBA - BonoDeArmasPrueba<br>
+*T*	PRUEBA - BonoDeEnergiaPrueba<br>
+*T*	PRUEBA - ChoqueDeNaveMilitarControladaPrueba<br>
+*T*	PRUEBA - ChoqueDeNavePrueba<br>
+*T*	PRUEBA - ChoqueDeObjetoEspacialPrueba<br>
+*T*	PRUEBA - ChoqueDeProyectilPrueba<br>
+*T*	PRUEBA - EscenarioPrueba<br>
+*T*	PRUEBA - FabricaDeArmasPrueba<br>
+*T*	PRUEBA - FabricaDeNavesPrueba<br>
 *F*	PRUEBA - FlotaPrueba<br>
-*F*	PRUEBA - MovilPrueba<br>
+*T*	PRUEBA - MovilPrueba<br>
 *F*	PRUEBA - NaveCivilPrueba<br>
 *F*	PRUEBA - NaveEnemigaPrueba<br>
 *F*	PRUEBA - NaveMiliarControladaPrueba<br>
 *F*	PRUEBA - NaveMilitarPrueba<br>
 *F*	PRUEBA - NavePrueba<br>
-*F*	PRUEBA - ObjetoEspacialPrueba<br>
+*T*	PRUEBA - ObjetoEspacialPrueba<br>
 *F*	PRUEBA - ObjetoVoladorPrueba<br>
 *F*	PRUEBA - ProyectilPrueba<br>
 *F*	PRUEBA - PruebasDeIntegracion<br>
