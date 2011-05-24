@@ -60,7 +60,7 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *F*	CLASE - ChoqueDeNave<br>
 *F*	CLASE - ChoqueDeNaveMilitarControlada<br>
 *F*	CLASE - ChoqueDeProyectil<br>
-*F*	CLASE - Escenario<br>
+*-*	CLASE - Escenario<br>
 *F*	CLASE - FabricaDeArmas<br>
 *F*	CLASE - FabricaDeNaves<br>
 *F*	CLASE - Flota<br>
@@ -68,15 +68,15 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *-*	CLASE - ObjetoEspacial<br>
 *F*	CLASE - Movil<br>
 *F*	CLASE - Arma<br>
-*F*	CLASE - ArmaLimitada<br>
+*T*	CLASE - ArmaLimitada<br>
 *F*	CLASE - ArmaDirigida<br>
 *-*	CLASE - ObjetoVolador<br>
 *F*	CLASE - Bono<br>
 *F*	CLASE - BonoDeArmas<br>
 *F*	CLASE - BonoDeEnergia<br>
 *F*	CLASE - Nave<br>
-*F*	CLASE - NaveCivil<br>
-*F*	CLASE - NaveMilitar<br>
+*-*	CLASE - NaveCivil<br>
+*-*	CLASE - NaveMilitar<br>
 *F*	CLASE - NaveEnemiga<br>
 *F*	CLASE - NaveGuia<br>
 *F*	CLASE - NaveMilitarControlada<br>
@@ -86,6 +86,6 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *F*	CLASE - VueloDeIdaYVuelta<br>
 *F*	CLASE - VueloEnZigZag<br>
 *F*	CLASE - VueloDireccionable<br>
-*F*	CLASE - VueloDirigido<br>
+*-*	CLASE - VueloDirigido<br>
 *F*	CLASE - VueloEnCirculos<br>
 *F*	CLASE - VueloEnLineaRecta<br>
