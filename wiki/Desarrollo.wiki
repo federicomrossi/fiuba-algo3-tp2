@@ -17,3 +17,9 @@ Ahora deberemos hacer lo mismo con el proyecto _tp2-pruebas_, ingresamos en la c
 {{{https://fiuba-algo3-tp2.googlecode.com/svn/trunk/tp2-prueba}}}
 
 Una vez realizado estos simples pasos tendremos separado el código fuente principal y las pruebas de este en dos proyectos diferentes manteniendo así un desarrollo organizado y dinámico.
+
+Por último, nos falta agregar a las librerías de cada proyecto el framework Titiritero. Para esto, recomendamos crear una carpeta _lib_ dentro del workspace actual y luego hacer checkout de la carpeta _lib_ almacenada en el trunk, mediante la siguiente URL:
+
+{{{https://fiuba-algo3-tp2.googlecode.com/svn/trunk/lib}}}
+
+Habiendo hecho esto, nos dirigiremos al eclipse, haremos click derecho sobre el proyecto _tp2-codigo-fuente_ e iremos a _Build path/Configure build path_. Una vez que aparezca la ventana de configuración, seleccionaremos la pestaña _Libraries_ (librerías) y luego presionaremos el botón _Add External JARs_. En la ventana de exploración nos dirigiremos a la carpeta _lib_ del workspace y seleccionaremos el archivo _titiritero.jar_. Finalmente presionamos OK, y listo, ya tendremos linkeado el framework a nuestro proyecto. Deben realizarse estos mismos mismos últimos pasos para el proyecto _tp2-pruebas_.
