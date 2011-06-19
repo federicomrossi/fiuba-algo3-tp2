@@ -114,8 +114,8 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 <br>
 === Persistencia ===
 
-*F*	Generar archivo xml que alberge a las misiones en su estado inicial para la carga de nuevas partidas.<br>
-*F*	Realizar el cargado de una misión (de acuerdo a cual se necesite) a partir del xml<br>
+*T*	Generar archivo xml que alberge a las misiones en su estado inicial para la carga de nuevas partidas.<br>
+*T*	Realizar el cargado de una misión (de acuerdo a cual se necesite) a partir del xml<br>
 
 
 <br>
