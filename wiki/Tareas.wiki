@@ -2,6 +2,11 @@
 = Tareas de desarrollo =
 
 En este apartado se muestra una lista de las tareas que se deberán realizar a lo largo del desarrollo. Dicha lista posee como fin mantener un control de las tareas faltantes, las ya realizadas o las que se están llevando a cabo actualmente.
+
+
+<br>
+== Checklist de tareas ==
+
 Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que especifica el estado en la que se encuentra la misma. Los estados son:
 
 "_F_": tarea faltante;<br>
@@ -9,9 +14,8 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 "_-_": la tarea ha sido finalizada.<br>
 "_M_": la tarea se encuentra en proceso de modificación.<br>
 
-
 <br>
-== Lista de tareas ==
+=== Modelo ===
 
 *-*	Realizar esqueletos de clases principales (incluir documentación)<br>
 *-*	Realizar esqueletos de expeciones (incluir documentación)<br>
@@ -92,3 +96,37 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *-*	CLASE - VueloDirigido<br>
 *-*	CLASE - VueloEnCirculos<br>
 *-*	CLASE - VueloEnLineaRecta<br>
+<br>
+*F*	Calibrar el movimiento de las nubes<br>
+*F*	Ensamblar el menu Nueva Partida con la clase Nueva Partida para dar comienzo a dicho evento.<br>
+
+
+<br>
+=== Vista ===
+
+*F*	Realizar menú Nueva Partida en donde se debe mostrar y esperar a que el usuario indique que se inicie la primera misión<br>
+*F*	Realizar menú de Cargar Partida (sin botoneras, manejado todo desde el teclado)<br>
+*F*	Crear el menú de opciones al que se puede acceder en medio de una misión<br>
+*F*	Crear pantalla de Game Over.<br>
+*F*	Hacer ajustes de jugabilidad sobre objetos espaciales.<br>
+
+
+<br>
+=== Persistencia ===
+
+*F*	Generar archivo xml que alberge a las misiones en su estado inicial para la carga de nuevas partidas.<br>
+*F*	Realizar el cargado de una misión (de acuerdo a cual se necesite) a partir del xml<br>
+
+
+<br>
+=== Controlador ===
+
+*F*	Controlador para el KeyPressed del menu Nueva Partida<br>
+*F*	Controlador para el KeyPressed del menu Cargar Partida<br>
+*F*	Controlador para el KeyPressed de la misión (teclas de jugabilidad, pausado y opciones de juego)<br>
+
+
+<br>
+=== Informe ===
+
+_No hay tareas definidas por el momento._
