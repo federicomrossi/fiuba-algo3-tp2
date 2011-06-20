@@ -115,7 +115,7 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *F*	Crear pantalla de Game Over.<br>
 *F*	Hacer ajustes de jugabilidad sobre objetos espaciales.<br>
 *F*	Crear vista del anuncio de inicio de misión que desaparesca luego de unos segundos.<br>
-*T*	Crear vista para la barra de estado del juego y modelos para lo que esta almacene.<br>
+*-*	Crear vista para la barra de estado del juego y modelos para lo que esta almacene.<br>
 
 
 <br>
