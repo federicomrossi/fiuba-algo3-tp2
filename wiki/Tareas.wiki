@@ -69,9 +69,9 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 *-*	CLASE - FabricaDeArmas<br>
 *-*	CLASE - FabricaDeNaves<br>
 *-*	CLASE - Flota<br>
-*F*	CLASE - Mision<br>
-*F*	CLASE - Partida<br>
-*F*	CLASE - Jugador<br>
+*-*	CLASE - Mision<br>
+*-*	CLASE - Partida<br>
+*-*	CLASE - Jugador<br>
 *-*	CLASE - ObjetoEspacial<br>
 *-*	CLASE - Movil<br>
 *-*	CLASE - Arma<br>
@@ -99,9 +99,9 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 <br>
 *-*	Calibrar el movimiento de las nubes<br>
 *-*	Ensamblar el menu Nueva Partida con la clase Nueva Partida para dar comienzo a dicho evento.<br>
-*F*	Crear modelo del anuncio de inicio de misión que desaparezca luego de unos segundos.<br>
+*-*	Crear modelo del anuncio de inicio de misión que desaparezca luego de unos segundos.<br>
 *-*	Crear modelo para la barra de estado del juego y modelos para lo que esta almacene.<br>
-*F*	Ensamblar el anuncio de inicio de misión al escenario de juego.<br>
+*-*	Ensamblar el anuncio de inicio de misión al escenario de juego.<br>
 *-*	Ensamblar barra de estado al escenario de juego.<br>
 
 
@@ -109,20 +109,20 @@ Cada tarea estará acompañada (del lado izquierdo) por una letra o símbolo que
 <br>
 === Vista ===
 
-*T*	Realizar menú de Cargar Partida (sin botoneras, manejado todo desde el teclado)<br>
-*F*	Crear el menú de opciones al que se puede acceder en medio de una misión<br>
-*F*	Crear pantalla de Game Over.<br>
-*F*	Hacer ajustes de jugabilidad sobre objetos espaciales.<br>
-*T*	Crear vista del anuncio de inicio de misión que desaparesca luego de unos segundos.<br>
+*-*	Realizar menú de Cargar Partida (sin botoneras, manejado todo desde el teclado)<br>
+*-*	Crear el menú de opciones al que se puede acceder en medio de una misión<br>
+*-*	Crear pantalla de Game Over.<br>
+*-*	Hacer ajustes de jugabilidad sobre objetos espaciales.<br>
+*-*	Crear vista del anuncio de inicio de misión que desaparesca luego de unos segundos.<br>
 *-*	Crear vista para la barra de estado del juego y modelos para lo que esta almacene.<br>
-*F*	Hacer imagenes para proyectiles.<br>
+*-*	Hacer imagenes para proyectiles.<br>
 
 
 <br>
 === Persistencia ===
 
-*T*	Generar archivo xml que alberge a las misiones en su estado inicial para la carga de nuevas partidas.<br>
-*T*	Realizar el cargado de una misión (de acuerdo a cual se necesite) a partir del xml<br>
+*-*	Generar archivo xml que alberge a las misiones en su estado inicial para la carga de nuevas partidas.<br>
+*-*	Realizar el cargado de una misión (de acuerdo a cual se necesite) a partir del xml<br>
 
 
 <br>
